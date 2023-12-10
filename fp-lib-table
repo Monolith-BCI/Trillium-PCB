@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TLV70025QDDCRQ1")(type "KiCad")(uri "${KIPRJMOD}/TLV70025QDDCRQ1/TLV70025QDDCRQ1.pretty")(options "")(descr ""))
+  (lib (name "TPS72325DBVR")(type "KiCad")(uri "${KIPRJMOD}/TPS72325DBVR/TPS72325DBVR.pretty")(options "")(descr ""))
+  (lib (name "LM2664M6")(type "KiCad")(uri "${KIPRJMOD}/LM2664M6/LM2664M6.pretty")(options "")(descr ""))
+  (lib (name "CP2102N-A02-GQFN28R")(type "KiCad")(uri "${KIPRJMOD}/CP2102N_A02_GQFN28R/CP2102N-A02-GQFN28R.pretty")(options "")(descr ""))
+  (lib (name "HT7550-1")(type "KiCad")(uri "${KIPRJMOD}/HT7550-1/HT7550-1.pretty")(options "")(descr ""))
+  (lib (name "CAT10-222J4LF")(type "KiCad")(uri "${KIPRJMOD}/CAT10_222J4LF/CAT10-222J4LF.pretty")(options "")(descr ""))
+  (lib (name "CA0612KRX7R9BB102")(type "KiCad")(uri "${KIPRJMOD}/CA0612KRX7R9BB102/footprints.pretty/CA0612KRX7R9BB102.pretty")(options "")(descr ""))
+  (lib (name "ADS1299IPAGR")(type "KiCad")(uri "${KIPRJMOD}/ADS1299IPAGR/ADS1299IPAGR.pretty")(options "")(descr ""))
+)
