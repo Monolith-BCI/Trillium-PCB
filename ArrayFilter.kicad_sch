@@ -637,14 +637,14 @@
     (property "LCSC" "C541606" (at 64.516 73.66 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2ed79f49-f598-401c-9a3d-a9c9a8f0ef46))
-    (pin "2" (uuid a95faf8c-9cad-498e-a9d3-779c41c73987))
-    (pin "3" (uuid cb2ed719-6bfe-4e5b-9e88-8c32a5e3e103))
-    (pin "4" (uuid 745af460-d0be-4215-96b8-967c83c2de2b))
-    (pin "5" (uuid 73c2eb3a-e825-40a3-9221-7bf5b7a302f5))
-    (pin "6" (uuid f8c5e208-fd33-47b8-ab79-efd5a6e8381d))
-    (pin "7" (uuid a5593a9e-1ca3-4053-84ae-a1c4bdd85cd0))
-    (pin "8" (uuid b10219b8-052e-4875-b6d0-e1a00ce91c3f))
+    (pin "1" (uuid e5c8bd47-4c55-4c81-904e-b1279c954be7))
+    (pin "2" (uuid 28f9261f-6386-40bb-8835-54057e687b8e))
+    (pin "3" (uuid a2678b8f-3beb-4c44-b6b1-b6797ef87872))
+    (pin "4" (uuid 8ee0371b-19d5-4626-bb65-100f0d2bf669))
+    (pin "5" (uuid a4c0cfa2-6b9b-4a53-8510-b3b3597d6576))
+    (pin "6" (uuid a65c4500-2b1f-4da3-a6df-7dea8ffb316e))
+    (pin "7" (uuid 2e9b5206-2953-4ac7-966b-5734dbafbeec))
+    (pin "8" (uuid e54878ce-3bb7-428a-9541-52b3d913e610))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/8bf3d135-133c-42bf-8c7d-ef099833e450/cebda32d-ed74-4cf2-a6e0-e918537a566a"

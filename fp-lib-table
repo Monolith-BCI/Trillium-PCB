@@ -6,6 +6,6 @@
   (lib (name "CP2102N-A02-GQFN28R")(type "KiCad")(uri "${KIPRJMOD}/CP2102N_A02_GQFN28R/CP2102N-A02-GQFN28R.pretty")(options "")(descr ""))
   (lib (name "HT7550-1")(type "KiCad")(uri "${KIPRJMOD}/HT7550-1/HT7550-1.pretty")(options "")(descr ""))
   (lib (name "CAT10-222J4LF")(type "KiCad")(uri "${KIPRJMOD}/CAT10_222J4LF/CAT10-222J4LF.pretty")(options "")(descr ""))
-  (lib (name "CA0612KRX7R9BB102")(type "KiCad")(uri "${KIPRJMOD}/CA0612KRX7R9BB102/footprints.pretty/CA0612KRX7R9BB102.pretty")(options "")(descr ""))
   (lib (name "ADS1299IPAGR")(type "KiCad")(uri "${KIPRJMOD}/ADS1299IPAGR/ADS1299IPAGR.pretty")(options "")(descr ""))
+  (lib (name "CA0612KRX7R9BB102")(type "KiCad")(uri "${KIPRJMOD}/CA0612KRX7R9BB102/CA0612KRX7R9BB102.pretty")(options "")(descr ""))
 )
