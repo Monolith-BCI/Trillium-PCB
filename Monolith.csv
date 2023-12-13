@@ -16,7 +16,7 @@ Comment,Designator,Footprint,LCSC
 "BLUE LED","D11","LED_SMD:LED_0805_2012Metric","C189307"
 "LESD5D5.0CT1G","D7,D8,D9","LESD5D5.0CT1G:TVS_LESD5D5.0CT1G","C383211"
 "HT7550-1","IC1","HT7550-1:SOT89","C16106"
-"USB_B_Micro","J1","Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal","C428495"
+"USB_B_Micro","J1","Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal","C132563"
 "Conn_01x11","J2,J3","Connector_PinSocket_2.54mm:PinSocket_1x11_P2.54mm_Vertical",""
 "Conn_01x02","J4,J5","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical",""
 "Conn_01x07","J6","Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical",""
