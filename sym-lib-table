@@ -8,4 +8,5 @@
   (lib (name "CAT10-222J4LF")(type "KiCad")(uri "${KIPRJMOD}/CAT10_222J4LF/CAT10-222J4LF.kicad_sym")(options "")(descr ""))
   (lib (name "CA0612KRX7R9BB102")(type "KiCad")(uri "${KIPRJMOD}/CA0612KRX7R9BB102.kicad_sym")(options "")(descr ""))
   (lib (name "ADS1299IPAGR")(type "KiCad")(uri "${KIPRJMOD}/ADS1299IPAGR/ADS1299IPAGR.kicad_sym")(options "")(descr ""))
+  (lib (name "AMS1117-3.3")(type "KiCad")(uri "${KIPRJMOD}/AMS1117-3.3/AMS1117-3.3.kicad_sym")(options "")(descr ""))
 )
