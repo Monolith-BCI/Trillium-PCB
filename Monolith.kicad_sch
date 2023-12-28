@@ -1968,7 +1968,7 @@
     (property "Value" "Conn_01x08" (at 267.97 155.575 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 264.795 152.4 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (at 264.795 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.795 152.4 0)
