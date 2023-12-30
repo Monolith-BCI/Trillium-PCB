@@ -420,7 +420,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "SRB1"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -499,10 +504,6 @@
     [
       "cebda32d-ed74-4cf2-a6e0-e918537a566a",
       "ArrayFilter"
-    ],
-    [
-      "b02cefe1-47ac-4355-9eed-e232e6fe8d6a",
-      "USBtoUART"
     ],
     [
       "8bf3d135-133c-42bf-8c7d-ef099833e450",

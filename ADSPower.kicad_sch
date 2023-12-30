@@ -726,11 +726,11 @@
     (property "Datasheet" "~" (at 238.76 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C1691" (at 238.76 110.49 0)
+    (property "LCSC" "C96446" (at 238.76 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b5cc8098-abfd-4ce6-980f-49d28b0c9a38))
-    (pin "2" (uuid f6a2278c-8a4b-48d0-b5f6-ad29ab1e5cba))
+    (pin "1" (uuid 9a7eb220-cb12-4f40-a7ea-1d7d9631e156))
+    (pin "2" (uuid 6c700cea-cba2-405f-9955-b7fb231d2416))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -760,11 +760,11 @@
     (property "Datasheet" "~" (at 87.63 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3011705" (at 87.63 107.95 0)
+    (property "LCSC" "C14663" (at 87.63 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 485e256b-2d7e-4105-b281-85b2c0668429))
-    (pin "2" (uuid 51a3878d-f4ff-45f0-8ffd-e9a8cd64a02c))
+    (pin "1" (uuid a1bd9de1-4660-40e1-a88f-6d450a2fc600))
+    (pin "2" (uuid 8ed4a660-6e2b-49d5-a3a5-241cb64c7f3c))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f"
@@ -792,11 +792,11 @@
     (property "Datasheet" "~" (at 221.615 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C5189827" (at 221.615 110.49 0)
+    (property "LCSC" "C23630" (at 221.615 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 11ff544c-70ed-45e6-bdc2-1d10686ed6b7))
-    (pin "2" (uuid e9c471d0-5c57-4d19-92ed-168bda235d6e))
+    (pin "1" (uuid dad413bf-526e-4c31-aafb-ac8265861cea))
+    (pin "2" (uuid 352ca301-fd6c-42d5-ac8e-6688fc41d64f))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -826,11 +826,11 @@
     (property "Datasheet" "~" (at 212.725 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C1691" (at 212.725 64.135 0)
+    (property "LCSC" "C96446" (at 212.725 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4c88c11b-4f4a-47a7-ace6-8be9439d1e1d))
-    (pin "2" (uuid 1746b343-7394-4bc8-9dcd-592b92752214))
+    (pin "1" (uuid 65c892a5-d4c7-4c97-b526-f493b868ae44))
+    (pin "2" (uuid 98c43783-39c6-41d5-96bf-894befa94530))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -860,11 +860,11 @@
     (property "Datasheet" "~" (at 182.88 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3011705" (at 182.88 76.2 0)
+    (property "LCSC" "C14663" (at 182.88 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ec8c11c7-010d-4d85-95f4-5a9ae956b3e9))
-    (pin "2" (uuid 8f5b0dd0-30ab-4556-8d67-f119ce8506be))
+    (pin "1" (uuid d3b36463-bc3c-40a2-973d-612ec0663881))
+    (pin "2" (uuid f33ae36e-6603-4406-a206-299726a20552))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -894,11 +894,11 @@
     (property "Datasheet" "~" (at 139.7 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C5189827" (at 139.7 59.69 0)
+    (property "LCSC" "C23630" (at 139.7 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df7dcb5e-8b8c-48c6-bb6c-ae4ab1f394cd))
-    (pin "2" (uuid 5921e8d4-a559-4051-b863-53565e580f2c))
+    (pin "1" (uuid 42a50e8f-6723-4ce2-ba37-e80ac011beec))
+    (pin "2" (uuid 938e3342-223c-40ab-aace-e46ca8d7a608))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -983,11 +983,11 @@
     (property "LCSC" "C69932" (at 165.1 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 75ede80e-0f64-4a47-af75-5c6a404d8a81))
-    (pin "2" (uuid 6091ca3d-00b4-4bca-9ee8-a8500716eb4a))
-    (pin "3" (uuid fa5bf2a7-a972-486b-9920-e3ee1a2361c7))
-    (pin "4" (uuid 28df516d-5292-44bb-917e-43ad7ffa73f0))
-    (pin "5" (uuid 2bafd6f8-036c-4476-8641-39e5e64a42db))
+    (pin "1" (uuid 22c22342-0060-4565-a6c7-2928280db37c))
+    (pin "2" (uuid 260febe9-e501-4ac4-944c-d0b4c8f375f2))
+    (pin "3" (uuid b472fa55-21ed-4c86-81c1-62ea91d57144))
+    (pin "4" (uuid 5f12bf38-f30b-4529-a815-9749288dadf6))
+    (pin "5" (uuid 5da3c02e-2f6c-45d1-bcf0-d6466ada9d59))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -1047,11 +1047,11 @@
     (property "Datasheet" "~" (at 62.23 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3011705" (at 62.23 107.95 0)
+    (property "LCSC" "C14663" (at 62.23 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c47ccb0f-9132-4be3-8178-fa9615560432))
-    (pin "2" (uuid 2e7d588b-9d30-4149-bc33-fd39a6bfbac9))
+    (pin "1" (uuid 79b94c28-efe5-4e0f-a83f-0b579c844f5f))
+    (pin "2" (uuid 8b713bf4-4451-47dc-9ffb-03dbc73653df))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f"
@@ -1112,12 +1112,12 @@
     (property "LCSC" " C840095" (at 78.105 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a9279b25-f3ab-4dfc-996c-e520ca118afa))
-    (pin "2" (uuid 986eaedf-5bed-439e-be76-262daf3c7e8d))
-    (pin "3" (uuid 8b98214c-7f90-419c-a947-e50461f39f1a))
-    (pin "4" (uuid 2f6bbdd4-eb4c-490b-86c3-90815cf4e899))
-    (pin "5" (uuid 5520e6f3-138a-4603-8e5f-0be8fc00d188))
-    (pin "6" (uuid 70839553-f4d7-423d-8f83-252403c74576))
+    (pin "1" (uuid 4c79a512-a2dc-445a-988d-730803af0f52))
+    (pin "2" (uuid 353133a6-b1ed-4b2d-ad62-78a1e2d929c1))
+    (pin "3" (uuid 100b7781-e9ac-44bc-9fa5-dcdb0a501660))
+    (pin "4" (uuid 367daa7f-b662-465c-8d22-c958aeaac244))
+    (pin "5" (uuid 72712e26-1ecd-4864-8a67-f6ed21dbbf2e))
+    (pin "6" (uuid 6b85ec35-925c-4f53-ac29-ec99db8f0c5a))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -1150,8 +1150,8 @@
     (property "LCSC" "C15849" (at 76.835 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39b7a979-ad69-4b73-8d6a-419d36861d94))
-    (pin "2" (uuid dd1bd437-1e98-4663-a4f2-0af11c6c4c93))
+    (pin "1" (uuid 14ef4484-5f08-4718-8a23-04111b6d8445))
+    (pin "2" (uuid 65b1f774-544e-4456-b200-d729f90815dd))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f"
@@ -1179,11 +1179,11 @@
     (property "Datasheet" "~" (at 86.995 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3011705" (at 86.995 129.54 0)
+    (property "LCSC" "C14663" (at 86.995 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0ca5ed7b-bd69-4c32-b343-ece42cf4fbba))
-    (pin "2" (uuid ce7f3593-ec98-4769-ae6d-dc6e63632e5f))
+    (pin "1" (uuid ec15d0ff-ecb2-407a-9a2e-65e6b1b78407))
+    (pin "2" (uuid 0c8ea142-abf6-4031-a944-c8d989ec784e))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f"
@@ -1211,11 +1211,11 @@
     (property "Datasheet" "~" (at 100.965 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C1691" (at 100.965 67.31 0)
+    (property "LCSC" "C96446" (at 100.965 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1b0c2909-68b3-44fa-8512-0db821ef5bc6))
-    (pin "2" (uuid c811747e-da15-480d-8afc-98312e084e6f))
+    (pin "1" (uuid f8f8968a-9572-456f-85ea-73d7a9b491d6))
+    (pin "2" (uuid a9ed754d-ab34-45ac-a69c-a677f7db4d79))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -1248,8 +1248,8 @@
     (property "LCSC" "C15849" (at 51.435 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9af882d7-cb38-4461-aa54-40811ec0a333))
-    (pin "2" (uuid 6138e450-9acc-45cc-932d-68b2ee7f057b))
+    (pin "1" (uuid 7709e495-bb75-4e9c-9511-0ccefa454e8f))
+    (pin "2" (uuid 534d7cd2-31d5-4e08-b0fc-8a52e4c3e5e6))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f"
@@ -1277,11 +1277,11 @@
     (property "Datasheet" "~" (at 197.485 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C5189827" (at 197.485 64.135 0)
+    (property "LCSC" "C23630" (at 197.485 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 36738ea1-9146-4a3e-bac8-86d25aeac21f))
-    (pin "2" (uuid d6f36740-5d5e-4f6a-8cfb-2f042957fbee))
+    (pin "1" (uuid 48167ff4-35e1-4c0f-a7eb-28522d4ae344))
+    (pin "2" (uuid 4c6a2616-1ad2-429f-88d9-7a37a0669a4d))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -1341,11 +1341,11 @@
     (property "Datasheet" "~" (at 48.26 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C1691" (at 48.26 69.85 0)
+    (property "LCSC" "C96446" (at 48.26 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 05e9d894-170e-400b-ad41-32a406e851c8))
-    (pin "2" (uuid 6571e44a-89c3-48d8-971b-ea3d0c7227c5))
+    (pin "1" (uuid 15e1af82-4998-4de7-b971-dd9c8d2601fd))
+    (pin "2" (uuid e3987171-ce85-4a65-a346-aa86e2a1ed54))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -1464,8 +1464,8 @@
     (property "LCSC" "C15849" (at 76.2 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 06e36201-d433-4447-9b45-68fd2397405d))
-    (pin "2" (uuid e05ec810-be92-4266-ba5b-4f35784d5926))
+    (pin "1" (uuid afb78c14-e24b-478b-a62c-3f0f281ef549))
+    (pin "2" (uuid c72371d3-829d-41d9-8e5b-20ddd757600e))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f"
@@ -1496,11 +1496,11 @@
     (property "LCSC" "C2867307" (at 149.225 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dee16d2f-2eba-45ba-b680-19bdd8dfb20c))
-    (pin "2" (uuid 2915da0e-8c7b-40b3-908f-36a47aa904cb))
-    (pin "3" (uuid 5ecd4857-bfd3-4249-bed8-b1a146aa74f6))
-    (pin "4" (uuid a46a31c1-18c1-4665-8a14-9808a13cee79))
-    (pin "5" (uuid 14f27d55-731c-4fcf-806f-71df49a49ae5))
+    (pin "1" (uuid ba9ba46b-5780-403d-b0a8-58d4b936b44b))
+    (pin "2" (uuid d9ad903a-7c0e-456c-a0c8-fc038123ad99))
+    (pin "3" (uuid 08c8d208-279e-43fd-8920-df3d83915819))
+    (pin "4" (uuid b4f81ebd-a66e-447c-be43-7372758afe58))
+    (pin "5" (uuid 0fb08d5f-39ac-428f-96b1-97c6abf3df3a))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -1530,11 +1530,11 @@
     (property "Datasheet" "~" (at 131.445 116.205 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C5189827" (at 131.445 116.205 0)
+    (property "LCSC" "C23630" (at 131.445 116.205 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 690b1db3-fd3c-4512-96b6-e4ae9b0cdb75))
-    (pin "2" (uuid e3f63b4a-4c29-42ea-aa4d-90d85383dc96))
+    (pin "1" (uuid 47106bc7-748b-4855-862b-9fea7dc6ef52))
+    (pin "2" (uuid 5c791700-fc4f-482b-9add-9fa9448dcc31))
     (instances
       (project "ads-power"
         (path "/5c414ab4-79fc-476a-bb82-f78a770609ff"
@@ -1567,8 +1567,8 @@
     (property "LCSC" "C15849" (at 50.8 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 85fec457-1ef7-4e5a-b3b2-54007adb416f))
-    (pin "2" (uuid 846fc714-0bb4-4cdc-9a6b-97cd6544d17d))
+    (pin "1" (uuid 2f1ca7e6-9c39-4632-908f-0cd9925a0348))
+    (pin "2" (uuid 28732273-625a-45d9-93ba-9e5faf002032))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f"
@@ -1596,11 +1596,11 @@
     (property "Datasheet" "~" (at 61.595 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3011705" (at 61.595 128.27 0)
+    (property "LCSC" "C14663" (at 61.595 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 358e557c-224a-45e8-ba81-9fcd4326067c))
-    (pin "2" (uuid 0bdd12f1-e133-4eca-8c29-7433ec566c2c))
+    (pin "1" (uuid 5e6ab51d-4ae9-4c21-b7fe-7f5eda2fab91))
+    (pin "2" (uuid 0397d62a-57e1-4c1b-9720-f0ebf9d5d1b2))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f"

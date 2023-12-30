@@ -777,35 +777,35 @@
     (property "LCSC" " C964632" (at 153.67 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7d547b29-a3c4-4ccc-94dc-fc9e29059047))
-    (pin "10" (uuid c92906a5-cf83-406e-84f1-82008e83c7cb))
-    (pin "11" (uuid e7cf88a2-ad2c-4751-94c7-cc6ff276f4fc))
-    (pin "12" (uuid 10f740ae-f355-452e-a15e-77ab28f685bd))
-    (pin "13" (uuid 113b3657-b8b5-4f17-b87f-6e396ecda522))
-    (pin "14" (uuid 8c147f3c-bb3a-4c52-bd3c-349dadeeac70))
-    (pin "15" (uuid 9df3bd3d-a717-4881-b6f9-4e6f8b1f4b75))
-    (pin "16" (uuid 3df7cd3a-fd81-4628-9370-4ac049e1cae9))
-    (pin "17" (uuid e3c6617a-8d80-4892-b0c2-c9ad30c32b94))
-    (pin "18" (uuid 23256f7b-8f8c-4f59-b343-9237ebc647c8))
-    (pin "19" (uuid fff6210f-514a-4f87-be77-bfacf1f5bbf1))
-    (pin "2" (uuid bd6a6874-a4aa-44a0-b999-b09ebc44c5a9))
-    (pin "20" (uuid 44afab4e-f36c-43af-ab9f-82af56ec29b7))
-    (pin "21" (uuid b5e41af9-6b89-4cbd-bf8d-d973307bd660))
-    (pin "22" (uuid b38376b9-d682-402f-b726-4fa36bffa56e))
-    (pin "23" (uuid b8ee27f7-3abc-4ee5-9df1-972f789491c5))
-    (pin "24" (uuid df241e97-c614-49ae-899a-87959361322c))
-    (pin "25" (uuid e132bba6-45cb-4f6e-93a4-b7de66db789d))
-    (pin "26" (uuid d27de7a8-e7df-44ce-aea7-6eb5af8a168d))
-    (pin "27" (uuid 6618983b-591b-4d9f-8560-3f9644bc0e89))
-    (pin "28" (uuid b73a6caf-707b-42f3-8c9d-afb73d08465c))
-    (pin "29" (uuid 1ab3d0bf-8f8f-4b68-8ecd-e90843d30f99))
-    (pin "3" (uuid 7d77f491-3eaa-4ef0-8b17-7955a213db91))
-    (pin "4" (uuid 30e2f7ef-8277-4d94-b07b-95378c310dcd))
-    (pin "5" (uuid 5a21217c-1678-486c-8d89-6db41bf8fe1c))
-    (pin "6" (uuid 22891845-a1a9-4c44-b358-09b5347b7b08))
-    (pin "7" (uuid dc005d1f-8640-4c28-acb6-947c5fa96133))
-    (pin "8" (uuid 73d31990-ec03-4ed8-a5df-9ec82be1178d))
-    (pin "9" (uuid 97e0d568-90df-4734-9a53-ad18f916ec98))
+    (pin "1" (uuid 4f4bd375-d742-4c07-87af-5ffb59f23e7d))
+    (pin "10" (uuid f4c5b2d7-a6c1-417d-88f6-77b9bdcb216f))
+    (pin "11" (uuid 8efbee9b-6cbf-4faa-a3c9-29ee1dc6a0c0))
+    (pin "12" (uuid 66940783-296a-4945-a5cc-91e428326e64))
+    (pin "13" (uuid 3f6ab8be-dfed-4404-8deb-d713735978a0))
+    (pin "14" (uuid 4831affd-6f35-4a9b-9782-aaffba5fbf0d))
+    (pin "15" (uuid 8db22227-7b8e-4623-baa5-f2af651c5451))
+    (pin "16" (uuid 83c1e45e-aac2-4962-90bb-bb8d5cf0df0f))
+    (pin "17" (uuid 37bc18b8-6202-4bc1-a0b6-9bb038c236b3))
+    (pin "18" (uuid d01929e8-ed4d-4bbb-9bfd-5086de128e96))
+    (pin "19" (uuid 8f333f71-7e78-42ff-b790-77cef5be53ea))
+    (pin "2" (uuid 01618730-97ca-4a6e-9173-c23cd9f478b9))
+    (pin "20" (uuid ec5f2d2a-fb1a-45d4-afb4-7337f756b895))
+    (pin "21" (uuid e57773cc-4eaa-4365-ad70-dc348ffa136a))
+    (pin "22" (uuid c15a7461-4138-4a91-a44c-5a2486528b43))
+    (pin "23" (uuid 10b720b8-0520-4a91-aa8b-586fe2ecd1d1))
+    (pin "24" (uuid d0f6bf49-997b-425e-b65d-b22f67ff162a))
+    (pin "25" (uuid 16db3c31-5301-40a4-b56b-615d0e797a16))
+    (pin "26" (uuid 41cdd9c8-62c6-498c-938d-404b9d11918d))
+    (pin "27" (uuid 5dd3a194-4f15-430c-90ad-4af147e2b3be))
+    (pin "28" (uuid a3ad100a-0e0c-4555-b2e0-2b27aa3304df))
+    (pin "29" (uuid 68374d6c-0ea2-4d80-b634-d7c2429ffdf0))
+    (pin "3" (uuid 7dce2747-808c-4c72-9e42-f21d272eedf0))
+    (pin "4" (uuid 0708ced8-74f7-4cff-a58f-8d2da1be70a7))
+    (pin "5" (uuid 00df041e-6d2e-41ca-abf8-5f4eebc1263a))
+    (pin "6" (uuid 5f6df742-6d26-4631-aa7b-ee48eecfc025))
+    (pin "7" (uuid 5745391a-51bd-40c9-ac05-003b7f52d40f))
+    (pin "8" (uuid ebfc0f27-da9c-4c5c-a75b-3a1204649bef))
+    (pin "9" (uuid e523d1ef-85db-4706-897b-5bc12e622c58))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -885,11 +885,11 @@
     (property "Datasheet" "~" (at 118.11 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C22548" (at 118.11 72.39 90)
+    (property "LCSC" "C21190" (at 118.11 72.39 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9a826ecd-03fd-45e9-87a4-95d6e1885a37))
-    (pin "2" (uuid 84d95925-00ae-47c4-b996-254b11f9c470))
+    (pin "1" (uuid 6fac85a4-e7db-4f8e-8dca-b7f5bb33bd47))
+    (pin "2" (uuid 8335c6b4-28a1-4b71-9056-ef7acb102740))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -944,12 +944,12 @@
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf" (at 228.6 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "LCSC" "C154797" (at 228.6 105.41 0)
+    (property "LCSC" "C2150" (at 228.6 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 65d7e62a-d933-40fc-8f98-a63f3b450a21))
-    (pin "2" (uuid fdbad58e-3c08-468a-a600-35a0c890833d))
-    (pin "3" (uuid 7fc8039b-11c0-4a69-9e12-9450f4e27227))
+    (pin "1" (uuid 9128cea1-1498-4a7f-b862-05ce4f090794))
+    (pin "2" (uuid c54012fe-7ff3-40a9-8804-7475e8d5b773))
+    (pin "3" (uuid 7d704903-db16-43ad-801c-b1f5ac1008a0))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1004,11 +1004,11 @@
     (property "Datasheet" "~" (at 214.63 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C98220" (at 214.63 105.41 90)
+    (property "LCSC" "C25804" (at 214.63 105.41 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 43b20126-5732-46b3-8586-d4963f36d906))
-    (pin "2" (uuid 31e614fe-6ea3-4dcc-83e8-c41f25d77e2a))
+    (pin "1" (uuid 261659fd-b145-45ef-9b45-ce051e00b5af))
+    (pin "2" (uuid 5110e803-a504-4f43-80b4-471f8efefef6))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1033,11 +1033,11 @@
     (property "Datasheet" "~" (at 214.63 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C98220" (at 214.63 87.63 90)
+    (property "LCSC" "C25804" (at 214.63 87.63 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 61fa758a-2474-407d-ad99-ba5f2666097b))
-    (pin "2" (uuid a6f822d4-89ab-4bc0-a0d0-86834f50ad24))
+    (pin "1" (uuid 362cf132-b12b-42cd-8a75-ff9c422d997f))
+    (pin "2" (uuid be886c1f-6440-4636-a7dd-83b914ba7b2e))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1062,11 +1062,11 @@
     (property "Datasheet" "~" (at 191.77 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C98220" (at 191.77 76.2 90)
+    (property "LCSC" "C25804" (at 191.77 76.2 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bc28df14-f16f-4e80-860a-7913879e9063))
-    (pin "2" (uuid b2b62aa5-4b45-4bb0-a4b0-097d29741fef))
+    (pin "1" (uuid 5490ebf4-fdb8-4910-9f7e-4783487d6b83))
+    (pin "2" (uuid 826b9cd6-ad17-46e3-a925-06b444e62d43))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1091,11 +1091,11 @@
     (property "Datasheet" "~" (at 194.31 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3011705" (at 194.31 64.77 0)
+    (property "LCSC" "C14663" (at 194.31 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 001b2d4d-7c29-4a64-a50a-9e3c3c0f0a2f))
-    (pin "2" (uuid ff3c09ac-ff99-493d-879b-67d89a749703))
+    (pin "1" (uuid 5e9a7d05-f705-4e45-a9ed-e6f135f8deae))
+    (pin "2" (uuid acd2898e-69d9-48cb-92a8-aa46fd0f0b6e))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1116,7 +1116,7 @@
     (property "Reference" "R17" (at 71.12 85.09 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R 22.1k (1%)" (at 71.12 87.63 90)
+    (property "Value" "R 22k" (at 71.12 87.63 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 71.12 91.948 90)
@@ -1125,11 +1125,11 @@
     (property "Datasheet" "~" (at 71.12 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C137768" (at 71.12 90.17 90)
+    (property "LCSC" "C31850" (at 71.12 90.17 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 23c1ea25-9cb8-42d6-a505-fb425cee38db))
-    (pin "2" (uuid 961a09f9-f141-4905-b18f-806a69360298))
+    (pin "1" (uuid 1ed5c0ff-3e39-4f7e-8753-e30e8fe69568))
+    (pin "2" (uuid 0568b288-add4-401e-86b1-79d2e3f80037))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1205,7 +1205,7 @@
     (property "Reference" "R22" (at 82.55 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R 47.5k (1%)" (at 82.55 98.425 0)
+    (property "Value" "R 47k" (at 82.55 98.425 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 78.232 96.52 90)
@@ -1214,11 +1214,11 @@
     (property "Datasheet" "~" (at 80.01 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C136962" (at 80.01 96.52 0)
+    (property "LCSC" "C25819" (at 80.01 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 742ab347-547e-4d7a-a90e-3b35bb465e49))
-    (pin "2" (uuid f8073d6f-8533-4531-82c1-3ab24d12b139))
+    (pin "1" (uuid eec91520-cd79-46fa-bf8a-b60d86e77c61))
+    (pin "2" (uuid 13861b83-4e2f-4bf5-8047-fa22b774b5ad))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1243,11 +1243,11 @@
     (property "Datasheet" "~" (at 182.88 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C560882" (at 182.88 64.77 0)
+    (property "LCSC" "C1779" (at 182.88 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 25622fbc-50c9-4a44-9fe4-c4eca6638867))
-    (pin "2" (uuid 66b082bc-e763-4c02-b169-190da1881248))
+    (pin "1" (uuid 9c10fd8f-28f1-4ae5-9091-c89d39b4e0f2))
+    (pin "2" (uuid 870fd957-6d03-4cbf-b875-73fc6a4dbbcc))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1310,8 +1310,8 @@
     (property "LCSC" "C15849" (at 100.33 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 54455db5-ef24-40a0-a638-b8c2b215a68a))
-    (pin "2" (uuid f5fc0d2c-386f-4ee4-96b6-19e0827516bf))
+    (pin "1" (uuid e6deda85-7f3e-4249-bbf9-4fd646d5a97c))
+    (pin "2" (uuid 2dc9b68c-23c1-4b27-b402-8a0269394c26))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
@@ -1336,12 +1336,12 @@
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf" (at 228.6 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "LCSC" "C154797" (at 228.6 87.63 0)
+    (property "LCSC" "C2150" (at 228.6 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 23f80d38-0e12-4ad7-bdad-6276a9666f52))
-    (pin "2" (uuid f0121590-ad62-4f14-bfa1-ed147f5df60e))
-    (pin "3" (uuid ba09b0e0-6298-4b0e-8b85-dd0d1e8868a3))
+    (pin "1" (uuid 816f8298-31ce-4a14-b718-99c9f730088f))
+    (pin "2" (uuid 263fb58d-311e-4b7e-8317-0d3ae81e5cd4))
+    (pin "3" (uuid 2281015c-32e4-4706-904f-f722a4726c50))
     (instances
       (project "Monolith"
         (path "/a4ecfbe3-0f16-403e-8cdc-2760bb3b2c3f/14efd714-8e75-4017-9994-542d74377c4f/b02cefe1-47ac-4355-9eed-e232e6fe8d6a"
