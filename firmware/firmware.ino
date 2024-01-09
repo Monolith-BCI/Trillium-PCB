@@ -12,17 +12,13 @@
 #define SDATAC 0x11
 #define RDATA 0x12
 
-#include <SPI.h>
 
 void setup()
 {
-  Serial.begin(9600);
-
-  SPI.begin();
-  SPI.transfer(START);
+  USBSerial.begin(9600);
 }
 
 void loop()
 {
-  Serial.println(SPI.transfer(0));
+  USBSerial.println("hi");
 }
